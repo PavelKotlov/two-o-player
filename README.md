@@ -1,7 +1,7 @@
-## two-o-player
+# two-o-player
 A two player math game built using Ruby.
 
-# Game Instructions
+## Game Instructions
 1. Players enter your names
 2. First player is selected at random and the game begins
 3. Each player begins with 3 lives
